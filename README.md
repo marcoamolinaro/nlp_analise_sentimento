@@ -1,1 +1,1 @@
-# nlp_analise_sentimento
+# NLP: Aplicando processamento de linguagem natural para análise de sentimentos
